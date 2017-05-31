@@ -6,6 +6,7 @@ import com.github.kittinunf.fuel.core.Request
 import com.github.kittinunf.fuel.util.TestConfiguration
 
 class Fuel {
+
     interface PathStringConvertible {
         val path: String
     }
